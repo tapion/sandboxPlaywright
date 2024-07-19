@@ -29,35 +29,33 @@ export default defineConfig({
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: "on-first-retry",
+    video: 'on',
+    launchOptions: { slowMo: 0 } // Chage this base on how slow we want the tests
   },
-
+  // globalSetup: require.resolve('./tests/fixtures/index.ts'),
   /* Configure projects for major browsers */
   projects: [
     {
       name: "chromium",
-      use: { ...devices["Desktop Chrome"] },
+      dependencies: ["acceptCookies"],
+      use: { ...devices["Desktop Chrome"] },      
     },
 
     {
       name: "firefox",
       use: { ...devices["Desktop Firefox"] },
     },
-
     {
       name: "webkit",
       use: { ...devices["Desktop Safari"] },
     },
     {
-      name: "setup",
-      testMatch: "setup.ts",
+      name: "acceptCookies",
+      testMatch: "acceptCookies.ts",
     },
     {
-      name: "smoke",
-      dependencies: ["setup"],
-      testMatch: "epam-app.spec.ts",
-      // use: {
-      //   storageState: 'state.json'
-      // }
+      name: "Iphone",
+      use: { ...devices["iPhone 11"] },
     },
     /* Test against mobile viewports. */
     // {
@@ -79,7 +77,7 @@ export default defineConfig({
     //   use: { ...devices['Desktop Chrome'], channel: 'chrome' },
     // },
   ],
-
+  
   /* Run your local dev server before starting the tests */
   // webServer: {
   //   command: 'npm run start',

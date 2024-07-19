@@ -1,237 +1,97 @@
 {
   "cookies": [
     {
-      "name": "route",
-      "value": "9c37f51044351579434668d06208c8e7",
-      "domain": "www.epam.com",
+      "name": "_ga_SEJ8DB2YNH",
+      "value": "GS1.1.1721353126.1.0.1721353126.60.0.0",
+      "domain": ".s4n.co",
       "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "renderid",
-      "value": "publisher2",
-      "domain": "www.epam.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_gcl_au",
-      "value": "1.1.858561097.1719774699",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1727550699,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_uetsid",
-      "value": "94111d00371411ef8901bdc1ba148885",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1719861099,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_uetvid",
-      "value": "94113590371411efbe284f9610c3f987",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1753470699,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_fbp",
-      "value": "fb.1.1719774699493.522818426763857498",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1727550701,
+      "expires": 1755913126.017413,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "_ga",
-      "value": "GA1.1.1914241967.1719774700",
-      "domain": ".epam.com",
+      "value": "GA1.1.1185819606.1721353126",
+      "domain": ".s4n.co",
       "path": "/",
-      "expires": 1754334699.715368,
+      "expires": 1755913126.017654,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "_ga_EYGYLWSTX2",
-      "value": "GS1.1.1719774699.1.0.1719774699.60.0.0",
-      "domain": ".epam.com",
+      "name": "lang",
+      "value": "en",
+      "domain": ".s4n.co",
       "path": "/",
-      "expires": 1754334699.720126,
+      "expires": 1752889126,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "test_cookie",
-      "value": "CheckForPermission",
-      "domain": ".doubleclick.net",
+      "name": "czRuLmNv-_lr_tabs_-edny8h%2Fmy-trips-uat",
+      "value": "{%22sessionID%22:0%2C%22recordingID%22:%225-9e221ed6-b2a4-447a-8d66-761d63a7599f%22%2C%22webViewID%22:null%2C%22lastActivity%22:1721353126574}",
+      "domain": ".s4n.co",
       "path": "/",
-      "expires": 1719775599.73105,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "lidc",
-      "value": "\"b=OGST09:s=O:r=O:a=O:p=O:g=2865:u=1:x=1:i=1719774699:t=1719861099:v=2:sig=AQH6Epr06wpz84zXRUA8H3UVnAMFXMgH\"",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1719861099.82542,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "li_sugr",
-      "value": "8cbe28ed-a713-42ef-842e-c4ef3db08708",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1727550700.27335,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "bcookie",
-      "value": "\"v=2&faf3862c-0e50-43e7-86a2-07e277df4cde\"",
-      "domain": ".linkedin.com",
-      "path": "/",
-      "expires": 1751310701.273394,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_mkto_trk",
-      "value": "id:030-GZP-996&token:_mch-epam.com-1719774699944-19239",
-      "domain": ".epam.com",
-      "path": "/",
-      "expires": 1754334699.944905,
+      "expires": 1721439526,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "UserMatchHistory",
-      "value": "AQKuYxl1CNCDvQAAAZBqj2IKZs8l-G7zkG5IW-KD3VKvSytSL1pYUvuC4NTdwMoEPPMqPAlibweMmg",
-      "domain": ".linkedin.com",
+      "name": "czRuLmNv-_lr_hb_-edny8h%2Fmy-trips-uat",
+      "value": "{%22heartbeat%22:1721353126574}",
+      "domain": ".s4n.co",
       "path": "/",
-      "expires": 1722366700.000062,
+      "expires": 1721439526,
       "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
+      "secure": false,
+      "sameSite": "Lax"
     },
     {
-      "name": "AnalyticsSyncHistory",
-      "value": "AQI8n1qDeLUsBQAAAZBqj2IKRp0b731gRurUNRrbZ92lX_fVrjPri2FJ_b7oQy37onain8mGThRoyBfKssU0ug",
-      "domain": ".linkedin.com",
+      "name": "czRuLmNv-_lr_uf_-edny8h",
+      "value": "c970bda9-0b7c-4f6d-9aa8-53ae404916c0",
+      "domain": ".s4n.co",
       "path": "/",
-      "expires": 1722366700.000085,
+      "expires": -1,
       "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
+      "secure": false,
+      "sameSite": "Lax"
     },
     {
-      "name": "bscookie",
-      "value": "\"v=1&202406301911401f9c50bf-941a-433f-8169-09818237ea20AQGJ6tVHnAaCdf4UfDp69bXhzkRIU-WJ\"",
-      "domain": ".www.linkedin.com",
+      "name": "did",
+      "value": "s%3Av0%3A0c3aa372-064d-476d-9d6c-b383d3e03f50.YDgd8%2FzkKdUEYf5q%2F1Zd2BMtePBaddKBZlFOzGQgU%2Bk",
+      "domain": "login-uat.copaair.com",
       "path": "/",
-      "expires": 1751310701.141871,
+      "expires": -1,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "OptanonAlertBoxClosed",
-      "value": "2024-06-30T19:11:41.299Z",
-      "domain": ".www.epam.com",
+      "name": "gdprcm",
+      "value": "true",
+      "domain": ".s4n.co",
       "path": "/",
-      "expires": 1751310701,
+      "expires": 1755913127.159992,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "OptanonConsent",
-      "value": "isGpcEnabled=0&datestamp=Sun+Jun+30+2024+14%3A11%3A41+GMT-0500+(Colombia+Standard+Time)&version=6.36.0&isIABGlobal=false&hosts=&consentId=190389b1-036e-4fa7-854d-94c8a2f053ad&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&iType=1",
-      "domain": ".www.epam.com",
-      "path": "/",
-      "expires": 1751310701,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "MUID",
-      "value": "3D8777FB18B260DF3B186355191D6188",
-      "domain": ".bing.com",
-      "path": "/",
-      "expires": 1753470701.388152,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "MR",
-      "value": "0",
-      "domain": ".bat.bing.com",
-      "path": "/",
-      "expires": 1720379501.388211,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     }
   ],
   "origins": [
     {
-      "origin": "https://www.epam.com",
+      "origin": "https://mytrips-qa.copa.s4n.co",
       "localStorage": [
         {
-          "name": "_uetsid_exp",
-          "value": "Mon, 01 Jul 2024 19:11:39 GMT"
+          "name": "_lr_id_",
+          "value": "{\"userID\":\"134dae5f-4edc-4cfc-bcfc-1875f1ee4186\"}"
         },
         {
-          "name": "ContextHubPersistence",
-          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":1280,\"height\":720},\"devicePixelRatio\":1,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":1280,\"height\":720},\"percentageUsage\":1},\"browser\":{\"version\":\"537.36\",\"family\":\"Safari\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/127.0.6533.17 Safari/537.36\"},\"device\":{\"category\":\"Desktop\",\"type\":\"Desktop\",\"model\":\"PC\",\"version\":\"\"},\"isMobile\":true,\"os\":{\"name\":\"Mac OS X\",\"version\":\"10.15.7\"},\"year\":2024,\"month\":6,\"day\":30,\"hour\":14,\"minutes\":11},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Mac OS X\",\"platformVersion\":\"10.15.7\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Mac OS X\",\"platformVersion\":\"10.15.7\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"north-america-es-l10n-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/north-america-es-l10n-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/north-america-es-l10n-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1719774698777,\"raw-response\":{}},\"location\":{\"continent\":\"South America\",\"continentCode\":\"SA\",\"country\":\"Colombia\",\"countryCode\":\"CO\",\"region\":\"Bogota D.C.\",\"regionCode\":\"DC\",\"city\":\"BogotÃ¡\",\"postalCode\":\"110841\",\"latitude\":\"4.61270\",\"longitude\":\"-74.14680\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"CO\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
-        },
-        {
-          "name": "lastExternalReferrerTime",
-          "value": "1719774699484"
-        },
-        {
-          "name": "_uetvid",
-          "value": "94113590371411efbe284f9610c3f987"
-        },
-        {
-          "name": "_uetvid_exp",
-          "value": "Fri, 25 Jul 2025 19:11:39 GMT"
-        },
-        {
-          "name": "lastExternalReferrer",
-          "value": "empty"
-        },
-        {
-          "name": "_uetsid",
-          "value": "94111d00371411ef8901bdc1ba148885"
+          "name": "alhubLang",
+          "value": "en"
         }
       ]
     }
